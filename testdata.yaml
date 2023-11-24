@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 1
+wait: 3
+login: "terepity2589879778444"
+password: "26d6257cc8"
+wsdl: 'https://speller.yandex.net/services/spellservice?WSDL'
+
